@@ -1,7 +1,7 @@
 # Scheme-Interpreter
 
 Synopsis
--------------
+------------
 This is a Scheme Interpreter, incorporating parsing and a Read-Eval-Print
 loop.  The parser/reader is scheme_reader.py; the evaluator is scheme.py.
 Note that scheme.py also included code for special forms, such a conditional
