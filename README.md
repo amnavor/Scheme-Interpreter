@@ -5,8 +5,8 @@ Synopsis
 This is a Scheme Interpreter, incorporating parsing and a Read-Eval-Print
 loop.  The parser/reader is scheme_reader.py; the evaluator is scheme.py.
 Note that scheme.py also included code for special forms, such a conditional
-and lambda functions. The tests we created are in tests.scm. Some questions 
-answers are included in questions.scm.
+and lambda functions. The tests we created are in tests.scm. Some Scheme prompts
+and answers are included in questions.scm.
 
 This file is written in Python. This project was a group effort between 
 myself and my friend Erica Huey for the UC Berkeley CS61A course.
